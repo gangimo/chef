@@ -92,6 +92,5 @@ end
 
 # Start service
 service "tomcat7" do
-    service_name "tomcat7"
-    action :start
+    action [ :enable, :start ]
 end
