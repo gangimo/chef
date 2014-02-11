@@ -3,6 +3,12 @@ chef
 
 cookbookとか
 
+使い方
+======
+
+Vagrantfileがあるディレクトリで
+git pull http://github.com/gangimo/chef
+
 
 Vagrantfile変更箇所
 ==================================================
